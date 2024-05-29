@@ -22,6 +22,10 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ### Day 1: 🚀 Getting started
 
+
+
+SO: para lanzar el push ahora mismo
+
 - [ ] Introduction and Icebreaker
 - [ ] GitHub Actions Fundamentals
 - [ ] The YAML syntax
